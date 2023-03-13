@@ -1,0 +1,2 @@
+# bitcoinpy
+Bitcoin Python Library
